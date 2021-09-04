@@ -1,0 +1,15 @@
+.sort-by {
+     float: right;
+}
+.sort-by label {
+     color: #212121;
+}
+.sort-by select {
+     margin-left: 10px;
+     padding: 3px;
+     border-radius: 5px;
+     border-color: #cccccc;
+}
+.sort-by select:focus {
+     outline: none;
+}

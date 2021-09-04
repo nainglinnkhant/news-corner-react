@@ -1,0 +1,17 @@
+.search-bar {
+     margin-top: 20px;
+     margin-bottom: 20px;
+}
+.search-btn {
+     color: #e91802;
+}
+.search-btn:hover {
+     background: #e91802;
+     color: #ffffff;
+}
+.search-btn:focus, search-btn:active {
+     outline: 0 !important;
+     background: #ffffff;
+     color: #e91802;
+     border-color: #cccccc;
+}
